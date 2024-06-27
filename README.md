@@ -8,3 +8,5 @@
   * [Gautam Kamath, 2020](http://www.gautamkamath.com/CS860-fa2020.html)
 * [A dedicated website for Differential Privacy](https://differentialprivacy.org/)
 * [7th BIU (BAR ILAN) winter school](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw1li73YXZdTaiAeXFkmWWRh)
+## Book
+[Cynthia Dwork and Aaron Roth. "The algorithmic foundations of differential privacy." Foundations and Trends in Theoretical Computer Science](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
