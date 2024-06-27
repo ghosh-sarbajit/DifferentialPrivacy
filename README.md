@@ -4,3 +4,4 @@
   * http://theory.stanford.edu/~nmishra/cs369-2004.html
   * [Gautam Kamath, 2022](http://www.gautamkamath.com/courses/CS860-fa2022.html)
   * [Gautam Kamath, 2020](http://www.gautamkamath.com/CS860-fa2020.html)
+* [A dedicated website for Differential Privacy](https://differentialprivacy.org/)
