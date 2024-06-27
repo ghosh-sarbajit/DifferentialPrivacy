@@ -1,5 +1,5 @@
 ## One of my early slides on Differential Privacy
-* This repository contains an introductory slide to differential privacy.
+* An introductory slide to differential privacy.
 * Simple codes related to differential privacy in R programming
 ## Some other useful resources
 * Some courses on Differential Privacy
