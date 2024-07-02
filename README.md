@@ -16,3 +16,12 @@ Cynthia Dwork and Aaron Roth. "[The algorithmic foundations of differential priv
 2. [Privacy Preserving Machine Learning](http://researchers.lille.inria.fr/abellet/teaching/private_machine_learning_course.html), by Aurélien Bellet, 2021
 3. [Algorithms for Private Data Analysis](http://www.gautamkamath.com/CS860-fa2020.html), by Gautam Kamath, 2020
 4. [Algorithms in Society](https://docs.google.com/document/d/1MO9DSbJMMnJxgml3uwYRgw2LaXPzUaDGyDM1CU6Z-Tk/edit), by Adam Smith, 2020
+
+## Packages
+* **Generic DP Libraries:**
+    * [Google DP Library](https://github.com/google/differential-privacy)
+    * [IBM Diffprivlib Library](https://github.com/IBM/differential-privacy-library)
+    * [OpenDP Library](https://github.com/opendp/opendp)
+* **DP ML Libraries:**
+    * [Tensorflow privacy](https://github.com/tensorflow/privacy)
+    * [Pytorch Opacus](https://github.com/pytorch/opacus)
