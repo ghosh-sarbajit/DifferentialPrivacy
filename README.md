@@ -2,9 +2,8 @@
 * An introductory slide to differential privacy.
 * Simple codes related to differential privacy in R programming
 ## Some other useful resources
-* Some courses on Differential Privacy
-  * [A dedicated website for Differential Privacy](https://differentialprivacy.org/)
-  * [7th BIU (BAR ILAN) winter school](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw1li73YXZdTaiAeXFkmWWRh)
+ * [A dedicated website for Differential Privacy](https://differentialprivacy.org/)
+ * [7th BIU (BAR ILAN) winter school](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw1li73YXZdTaiAeXFkmWWRh)
     
 ## Book
 Cynthia Dwork and Aaron Roth. "[The algorithmic foundations of differential privacy.](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
