@@ -4,6 +4,11 @@
 ## Some other useful resources
  * [A dedicated website for Differential Privacy](https://differentialprivacy.org/)
  * [7th BIU (BAR ILAN) winter school](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw1li73YXZdTaiAeXFkmWWRh)
+ * [Data Privacy: Foundations and Applications Boot Camp](https://youtube.com/playlist?list=PLgKuh-lKre11tx27MfGdff-SZwrYVEJ52&feature=shared)
+ * [Data Privacy: From Foundations to Applications ](https://youtube.com/playlist?list=PLgKuh-lKre127daQmgd6Kq2PjV2Me6zP0&feature=shared)
+ * [Beyond Differential Privacy](https://youtube.com/playlist?list=PLgKuh-lKre11iWnOvMCamL7hRDBUJhnxq&feature=shared)
+ * [ Statistics in the Big Data Era ](https://youtube.com/playlist?list=PLgKuh-lKre13dRlx8GXoFWG8zqL8CnYN_&feature=shared)
+ * [Deep Learning Theory Workshop and Summer School](https://youtube.com/playlist?list=PLgKuh-lKre10YK4RZ6mMylo3ftx_JJYYM&feature=shared)
     
 ## Book
 Cynthia Dwork and Aaron Roth. "[The algorithmic foundations of differential privacy.](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
