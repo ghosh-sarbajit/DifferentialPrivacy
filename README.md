@@ -9,10 +9,11 @@
 Cynthia Dwork and Aaron Roth. "[The algorithmic foundations of differential privacy.](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
 " Foundations and Trends in Theoretical Computer Science
 ## Courses (With Slides)
-1. [Privacy in Statistics and Machine Learning](https://dpcourse.github.io/), by Adam Smith and Jonathan Ullman
+1. [Privacy in Statistics and Machine Learning](https://dpcourse.github.io/), 2023, 2021 by Adam Smith and Jonathan Ullman
 2. [Privacy Preserving Machine Learning](http://researchers.lille.inria.fr/abellet/teaching/private_machine_learning_course.html), by Aurélien Bellet, 2021
 3. Algorithms for Private Data Analysis, [2020](http://www.gautamkamath.com/CS860-fa2020.html), [2022](http://www.gautamkamath.com/courses/CS860-fa2022.html) by Gautam Kamath
 4. [Algorithms in Society](https://docs.google.com/document/d/1MO9DSbJMMnJxgml3uwYRgw2LaXPzUaDGyDM1CU6Z-Tk/edit), by Adam Smith, 2020
+5. [Private Systems, by Roxana Geambasu, 2020
 
 ## Courses
 1.  [Digital Privacy](https://www.cs.cornell.edu/~shmat/courses/cs6434/), by Vitaly Shmatikov, 2023
