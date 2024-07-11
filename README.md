@@ -13,7 +13,9 @@ Cynthia Dwork and Aaron Roth. "[The algorithmic foundations of differential priv
 2. [Privacy Preserving Machine Learning](http://researchers.lille.inria.fr/abellet/teaching/private_machine_learning_course.html), by Aurélien Bellet, 2021
 3. Algorithms for Private Data Analysis, [2020](http://www.gautamkamath.com/CS860-fa2020.html), [2022](http://www.gautamkamath.com/courses/CS860-fa2022.html) by Gautam Kamath
 4. [Algorithms in Society](https://docs.google.com/document/d/1MO9DSbJMMnJxgml3uwYRgw2LaXPzUaDGyDM1CU6Z-Tk/edit), by Adam Smith, 2020
-5. [Private Systems, by Roxana Geambasu, 2020
+5. [Private Systems](https://columbia.github.io/private-systems-class/), by Roxana Geambasu, 2020
+6. []()
+
 
 ## Courses
 1.  [Digital Privacy](https://www.cs.cornell.edu/~shmat/courses/cs6434/), by Vitaly Shmatikov, 2023
