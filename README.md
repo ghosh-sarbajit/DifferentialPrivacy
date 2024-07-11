@@ -26,18 +26,3 @@ Cynthia Dwork and Aaron Roth. "[The algorithmic foundations of differential priv
 * **DP ML Libraries:**
     * [Tensorflow privacy](https://github.com/tensorflow/privacy)
     * [Pytorch Opacus](https://github.com/pytorch/opacus)
-
-## Industry Adaptation of Differential Privacy
-* **Google**
-    * Rappor (Adoption of DP for recording, 2014)
-    * DP SQL (2020)
-    * Privacy on Beam (2021), [Introduction](https://codelabs.developers.google.com/codelabs/privacy-on-beam/)
-    * Plume (2022), [Video](https://www.usenix.org/conference/pepr23/presentation/kulesza)
-* **Apple**
-    * Sequence Fragment Puzzle (2017)
-* **Microsoft**
-    * PINQ (2010)
-    * One-Bit Estimation (2017)
-    * LinkedIn Engagement API (2020)
-* **Uber**
-    * FLEX (2018)
