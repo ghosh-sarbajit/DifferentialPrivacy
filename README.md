@@ -20,12 +20,21 @@ Cynthia Dwork and Aaron Roth. "[The algorithmic foundations of differential priv
 3. Algorithms for Private Data Analysis, [2020](http://www.gautamkamath.com/CS860-fa2020.html), [2022](http://www.gautamkamath.com/courses/CS860-fa2022.html) by Gautam Kamath
 4. [Algorithms in Society](https://docs.google.com/document/d/1MO9DSbJMMnJxgml3uwYRgw2LaXPzUaDGyDM1CU6Z-Tk/edit), by Adam Smith, 2020
 5. [Private Systems](https://columbia.github.io/private-systems-class/), by Roxana Geambasu, 2020
-6. []()
+6. [Algorithms for Private Data Analysis](http://www.cs.toronto.edu/~anikolov/CSC2412F19/CSC2412.html), by Aleksandar Nikolov, 2019
+7. Applied Privacy for Data Science [2019](http://people.seas.harvard.edu/~salil/cs208/), [2022](https://opendp.github.io/cs208/), by James Honaker and Salil Vadhan
+8. [The Algorithmic Foundations of Adaptive Data Analysis](https://adaptivedataanalysis.com/), by Aaron Roth and Adam Smith, 2017
+9. [Design of Stable Algorithms for Privacy and Learning](https://courses.cs.duke.edu//fall16/compsci590.3/),  by Ashwin Machanavajjhala, 2016
+10. [Differential Privacy in Game Theory and Mechanism Design](https://www.cis.upenn.edu/~aaroth/courses/gametheoryprivacyS14.html), by Aaron Roth, 2014
+11. [The Algorithmic Foundations of Data Privacy](https://www.cis.upenn.edu/~aaroth/courses/privacyF11.html), by Aaron Roth, 2011
+
+
 
 
 ## Courses
 1.  [Digital Privacy](https://www.cs.cornell.edu/~shmat/courses/cs6434/), by Vitaly Shmatikov, 2023
 2.  [ A Study of Perturbation Techniques for Data Privacy](http://theory.stanford.edu/~nmishra/cs369-2004.html), by Cynthia Dwork and Nina Mishra and Kobbi Nissim, 2004
+3. [Rigorous Approaches to Data Privacy](https://www.khoury.northeastern.edu/home/jullman/cs7880s17/syllabus.html), by Jonathan Ullman, Spring 2017
+4. [Mathematical Approaches to Data Privacy](http://people.seas.harvard.edu/~salil/diffprivcourse/spring13/), by Salil Vadhan, Spring 2013
 
 ## Packages
 * **Generic DP Libraries:**
