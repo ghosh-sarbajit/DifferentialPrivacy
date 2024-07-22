@@ -1,8 +1,7 @@
 ## One of my early slides on Differential Privacy
 * An introductory slide to differential privacy.
 * Simple codes related to differential privacy in R programming
-## Some other useful resources
- * [A dedicated website for Differential Privacy](https://differentialprivacy.org/)
+## Some other useful resources 
  * [7th BIU (BAR ILAN) winter school](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw1li73YXZdTaiAeXFkmWWRh)
  * [Data Privacy: Foundations and Applications Boot Camp](https://youtube.com/playlist?list=PLgKuh-lKre11tx27MfGdff-SZwrYVEJ52&feature=shared)
  * [Data Privacy: From Foundations to Applications ](https://youtube.com/playlist?list=PLgKuh-lKre127daQmgd6Kq2PjV2Me6zP0&feature=shared)
@@ -44,3 +43,6 @@ Cynthia Dwork and Aaron Roth. "[The algorithmic foundations of differential priv
 * **DP ML Libraries:**
     * [Tensorflow privacy](https://github.com/tensorflow/privacy)
     * [Pytorch Opacus](https://github.com/pytorch/opacus)
+ 
+## **A website**
+    * [A dedicated website for Differential Privacy](https://differentialprivacy.org/)
