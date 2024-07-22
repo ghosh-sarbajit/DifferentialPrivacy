@@ -45,4 +45,4 @@ Cynthia Dwork and Aaron Roth. "[The algorithmic foundations of differential priv
     * [Pytorch Opacus](https://github.com/pytorch/opacus)
  
 ## **Website**
-    [A dedicated website for Differential Privacy](https://differentialprivacy.org/)
+* [Website for Differential Privacy](https://differentialprivacy.org/)
