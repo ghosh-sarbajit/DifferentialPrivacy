@@ -43,6 +43,8 @@ Cynthia Dwork and Aaron Roth. "[The algorithmic foundations of differential priv
 * **DP ML Libraries:**
     * [Tensorflow privacy](https://github.com/tensorflow/privacy)
     * [Pytorch Opacus](https://github.com/pytorch/opacus)
+* **Auditing Library**
+    * DP-Auditorium, a library from Google to audit the guarantees of different DP implementations. [Description](https://research.google/blog/dp-auditorium-a-flexible-library-for-auditing-differential-privacy/), [GitHub](https://github.com/google/differential-privacy/tree/main/python/dp_auditorium), [Paper](DP-Auditorium) 
  
 ## **Website**
 * [Website for Differential Privacy](https://differentialprivacy.org/)
